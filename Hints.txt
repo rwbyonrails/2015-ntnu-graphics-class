@@ -1,0 +1,4 @@
+o Beware of Javascript errors that do not produce error messages, such as:
+	= Typo in variable name
+	= Typo in function name
+  Syntax errors like these will show up in the Console panel of the Chrome Developer Tools.
